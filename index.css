@@ -1,0 +1,11 @@
+body{
+    /* background-image: url("Screenshot\ 2024-04-02\ at\ 2.35.05\ AM.png"); */
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: white;
+}
+
+main .test{
+    text-shadow: 2px 2px 5px red, 2px 2px 5px #04aacd, 2px 2px 5px yellow;
+}
